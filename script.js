@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:3000/api";
+const apiUrl = "https://lista-casamento-y4zd.onrender.com/api";
 
 // Função para carregar e exibir os itens da lista
 async function carregarItens() {
