@@ -2,8 +2,8 @@
   "itens": [
     {
       "nome": "Jogo de panelas",
-      "escolhido": true,
-      "por": "cleidson"
+      "escolhido": false,
+      "por": ""
     },
     {
       "nome": "Conjunto de facas",
