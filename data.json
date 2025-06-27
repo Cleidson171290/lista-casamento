@@ -1,12 +1,12 @@
 {
   "itens": [
     {
-      "nome": "Jogo de panelas",
+      "nome": "Jogo de panelas inox",
       "escolhido": false,
       "por": ""
     },
     {
-      "nome": "Conjunto de facas",
+      "nome": "Conjunto de facas (Tramontina)",
       "escolhido": false,
       "por": ""
     },
@@ -36,11 +36,6 @@
       "por": ""
     },
     {
-      "nome": "Jogo de potes herméticos",
-      "escolhido": false,
-      "por": ""
-    },
-    {
       "nome": "Tábua de corte (madeira ou vidro)",
       "escolhido": false,
       "por": ""
@@ -51,7 +46,7 @@
       "por": ""
     },
     {
-      "nome": "Espremedor de frutas",
+      "nome": "Espremedor de frutas elétrico",
       "escolhido": false,
       "por": ""
     },
@@ -71,12 +66,17 @@
       "por": ""
     },
     {
-      "nome": "Frigideiras antiaderentes",
+      "nome": "Jogo Frigideiras antiaderentes",
       "escolhido": false,
       "por": ""
     },
     {
       "nome": "Assadeiras e formas para forno",
+      "escolhido": false,
+      "por": ""
+    },
+    {
+      "nome": "Garrafa térmica de inox",
       "escolhido": false,
       "por": ""
     },
@@ -96,32 +96,12 @@
       "por": ""
     },
     {
-      "nome": "Moedor de temperos e Porta-condimentos",
+      "nome": "Escorredor de louça inox e Suporte para papel-toalha e detergente",
       "escolhido": false,
       "por": ""
     },
     {
-      "nome": "Escorredor de louça e Suporte para papel-toalha e detergente",
-      "escolhido": false,
-      "por": ""
-    },
-    {
-      "nome": "Filtro de água",
-      "escolhido": false,
-      "por": ""
-    },
-    {
-      "nome": "Cesta de pães ou fruteira",
-      "escolhido": false,
-      "por": ""
-    },
-    {
-      "nome": "Jarra para sucos",
-      "escolhido": false,
-      "por": ""
-    },
-    {
-      "nome": "Ralador multifuncional e Descascador de legumes",
+      "nome": "Jarra para sucos e copos de vidro",
       "escolhido": false,
       "por": ""
     },
@@ -156,12 +136,12 @@
       "por": ""
     },
     {
-      "nome": "Tapete para banheiro",
+      "nome": "Jogo deTapete para banheiro",
       "escolhido": false,
       "por": ""
     },
     {
-      "nome": "Edredom ou manta",
+      "nome": "2 Edredons ou 2 manta",
       "escolhido": false,
       "por": ""
     }
